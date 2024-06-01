@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theprashasst" alt="theprashasst" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning **Full Stack Development and Some AI**
 
 - 📫 How to reach me **prashasstpc@gmail.com**
 
-- ⚡ Fun fact **People who don't know me well hates me**
+- ⚡ Fun fact **People who don't know me well hate me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
